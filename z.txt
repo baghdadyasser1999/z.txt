@@ -18,8 +18,3 @@ first12
 first1
 first
 last123456
-last12345
-last1234
-last123
-last12
-last1
